@@ -75,3 +75,9 @@ ProjectSource/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#After Effects Backup Files
+Developers/ColeT/Adobe/AfterEffects2020/Adobe After Effects Auto-Save
+
+#After Effects Logs
+Developers/ColeT/Adobe/AfterEffects2020/ProjectHotelHorror01.aep Logs
