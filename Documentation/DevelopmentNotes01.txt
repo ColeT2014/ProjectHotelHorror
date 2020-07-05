@@ -1,0 +1,37 @@
+"PROJECT HOTEL HORROR"
+
+COLE T:
+
+Level Interactions:
+
+When you interact with GLASS WINDOW - it shatters.
+
+References:
+
+HORROR ENGINE TUTORIAL - https://www.youtube.com/watch?v=zov_LDbPb4w
+
+Hotel Room Pan Around 01 - https://www.youtube.com/watch?v=uvlKd4wdAik
+
+Naming Convention - https://github.com/Allar/ue4-style-guide#2.3
+
+
+
+
+
+
+
+
+
+PROOF OF CONCEPT:
+
+2 Floors. 2 Enemies. Each unique.
+Hiding - under beds, in wardrobes, in bath tubs, etc.
+Luring Enemies.
+Unique Death Animations for Player.
+Level Interaction and World Building, finding notes and details about your enemies and how they got there.
+
+Potential Guests:
+
+Lights Guy - Uses darkness to his advantage, always disables lights within his vicinity. Possibly can only see him using the flash of a POLAROID CAMERA.
+ 
+Film Reel Guy - You create this monster but have to destroy him, you find three pieces of film reel around the floor rooms, put the film together, put that into the projector, enemy comes out of wall, he has a SUPER-8 Filmic Material on him. You have to avoid him, and sneak up, grab the film reel hanging off him, and throw him back into the projector.
